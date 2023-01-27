@@ -1,0 +1,9 @@
+#box {
+    background-color: #232323;
+    position: absolute;
+    width: 627px;
+    height: 184px;
+    left: 91px;
+    top: 196px;
+    box-shadow: 10px 10px 0 #4e4e4e;
+}
