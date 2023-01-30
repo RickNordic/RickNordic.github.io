@@ -1,4 +1,4 @@
-.banner {
+.first-banner {
     box-sizing: border-box;
     background-image: url(../../assets/img/photo.png);
     background-repeat: no-repeat;
@@ -9,21 +9,21 @@
     padding-top: 110px;
 }
 
-.banner .wrapper {
+.first-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 640px;
 }
 
-.banner .box {
+.first-banner .one-box {
     margin-bottom: 40px;
 }
 
-.banner .navigation {
+.first-banner .navigation {
     display: flex;
     justify-content: space-evenly;
 }
 
-.button.-second {
+.fav-button.-second {
     box-shadow: 5px 5px 0px #4e4e4e;
 }

@@ -1,4 +1,4 @@
-.action {
+.high-action {
     display: inline-flex;
     color: #fff;
     align-items: center;
@@ -11,7 +11,7 @@
 
 }
 
-.action::before {
+.high-action::before {
     content: " ";
     background-color: #c10016;
     width: 10px;

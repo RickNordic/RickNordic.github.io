@@ -1,4 +1,4 @@
-.button {
+.fav-button {
     display: inline-block;
     color: #ffffff;
     font-family: 'Fira Code', monospace;
@@ -11,6 +11,6 @@
     transition: transform 200ms linear;
     text-decoration: none;
 }
-.button:hover {
+.fav-button:hover {
     transform: scale(1.08);
 }
