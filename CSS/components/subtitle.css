@@ -1,6 +1,6 @@
-h2 {
-    font-family: "Visby", sans-serif;
-    font-weight: 600;
+.subtitle {
+    font-family: 'Fira Code', monospace;
+    font-weight: 500;
     font-size: 40px;
     color: #fff;
     text-shadow: 4px 4px 0px #000;
