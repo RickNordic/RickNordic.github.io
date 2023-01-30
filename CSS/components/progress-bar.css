@@ -9,6 +9,6 @@
 .progress-bar::before {
     box-sizing: border-box;
     content: "";
-    width: 70px;
+    width: 70%;
     background-color: #232323;
 }
