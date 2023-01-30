@@ -1,14 +1,15 @@
 .button {
     display: inline-block;
     color: #ffffff;
-    font-family: 'Visby', Arial, Helvetica, sans-serif;
-    font-weight: 700;
+    font-family: 'Fira Code', monospace;
+    font-weight: 500;
     font-size: 20px;
     background-color: #c10016;
     padding: 18px 20px;
     box-shadow: 5px 5px 0px #000;
     margin-right: 0px;
     transition: transform 200ms linear;
+    text-decoration: none;
 }
 .button:hover {
     transform: scale(1.08);
