@@ -23,3 +23,7 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.button.-second {
+    box-shadow: 5px 5px 0px #4e4e4e;
+}
