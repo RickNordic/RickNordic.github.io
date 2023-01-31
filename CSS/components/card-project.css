@@ -1,0 +1,17 @@
+.card-project {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4e4e4e;
+    width: 280px;
+    height: 280px;
+    box-shadow: 10px 10px 0px #00ff0d;
+}
+
+.card-project.-red {
+    background-color: #c10016;
+}
+
+.card-project .logo {
+    height: 220px;
+}
