@@ -2,17 +2,24 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #4e4e4e;
+    background-color: #141414;
     width: 280px;
     height: 280px;
-    box-shadow: 10px 10px 0px #00ff0d;
+    box-shadow: 10px 10px 0px #4e4e4e;
+    transition: transform 200ms linear;
 }
 
-.card-project.-red {
-    background-color: #c10016;
+.card-project.-gray {
+    background-color: #4e4e4e;
+    margin-left: 150px;
+    margin-right: 150px;
+    box-shadow: 10px 10px 0px #141414;
 }
 
 .card-project .logo {
     height: 220px;
 }
 
+.card-project:hover {
+    transform: scale(1.08);
+}
