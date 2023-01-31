@@ -1,0 +1,9 @@
+.unic-text {
+    box-sizing: border-box;
+    font-family: 'Fira Code', monospace;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+    padding: 0px 100px;
+}
