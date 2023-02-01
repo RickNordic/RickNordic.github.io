@@ -1,14 +1,15 @@
 .node-card {
+    box-sizing: border-box;
     display: inline-flex;
     flex-direction: column;
     align-items: center;
     position: relative;
+    margin-left: 60px;
 }
 
 .node-card::before  {
     content: "";
     position: absolute;
-    box-sizing: border-box;
     height: 0;
     width: 40px;
     border: 2.5px dashed #000;
