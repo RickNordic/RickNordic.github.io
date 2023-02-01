@@ -1,0 +1,22 @@
+.node-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.node-card .title {
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+    font-size: 25px;
+    color: #c10016;
+    margin-bottom: 50px;
+}
+
+.node-card .logo {
+    display: flex;
+    align-items: center ;
+    height: 140px;
+    padding: 0px 20px;
+    border: 5px solid #232323;
+    background-color: #fff;
+}
