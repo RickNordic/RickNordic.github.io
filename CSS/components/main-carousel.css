@@ -5,7 +5,8 @@
 
 .main-carousel .button-arrow {
     position: absolute;
-    bottom: 50px;
+    bottom: 70px;
+    transform: translateY(50%);
 }
 
 .main-carousel .button-arrow.-left {
