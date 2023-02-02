@@ -1,6 +1,8 @@
 .main-carousel {
+    display: flex;
+    justify-content: space-between;
     position: relative;
-    padding: 0px 100px;
+    padding: 0px 85px;
 }
 
 .main-carousel .button-arrow {
