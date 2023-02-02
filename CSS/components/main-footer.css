@@ -1,0 +1,14 @@
+.main-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    padding: 20px 0px;
+}
+
+.main-footer .logo {
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
