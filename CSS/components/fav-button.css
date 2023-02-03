@@ -14,3 +14,7 @@
 .fav-button:hover {
     transform: scale(1.08);
 }
+
+.fav-button.-send {
+    width: 100%;
+}
