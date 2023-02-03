@@ -3,6 +3,10 @@
     background-color: #232323;
 }
 
+.main-form .main-title.-second {
+    padding-bottom: 50px;
+}
+
 .main-form .main-input {
     margin-bottom: 20px;
 }
