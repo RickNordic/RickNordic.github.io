@@ -10,11 +10,17 @@
     margin-right: 0px;
     transition: transform 200ms linear;
     text-decoration: none;
+    cursor: pointer;
 }
+
 .fav-button:hover {
     transform: scale(1.08);
 }
 
 .fav-button.-send {
     width: 100%;
+}
+
+.fav-button.-send:hover {
+    transform: scale(1.02);
 }
