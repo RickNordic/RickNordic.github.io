@@ -6,3 +6,7 @@
     padding-left: 6px;
     padding-right: 6px;
 }
+
+.main-input.-textarea {
+    height: 320px;
+}
